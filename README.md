@@ -18,7 +18,7 @@ Inserted slicers  to change the graphs for different parameters.
 - Microsoft Excel
 
 ## Contributors
-- [Your Name Here]
+- Saivarun Kotha
 
 ## Notes
 This project showcases the ability to work with Excel data effectively, focusing on organization, insights, and usability.
